@@ -1,0 +1,19 @@
+.editfeature{
+    position:relative;
+}
+.fix{
+    margin-top: 3rem;
+    width:100%;
+    position:absolute;
+    display:grid;
+}
+textarea.form__input.stretch{
+    padding:10px 5px;
+    margin-bottom: 1rem;
+}
+input.form__input.stretch{
+    padding:10px 5px;
+}
+.edit-btn{
+    margin:2px;
+}
